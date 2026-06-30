@@ -1,0 +1,10 @@
+# Godot 4
+.godot/
+.import/
+android/
+
+# Export
+export_presets.cfg
+
+# Arquivos temporários
+*.tmp
